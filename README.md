@@ -1,4 +1,3 @@
-![todolist3](https://github.com/zi-young/todolist/assets/130470515/79843f40-564b-4915-bc36-a3e26d87acf9)
-![todolist2](https://github.com/zi-young/todolist/assets/130470515/557079b5-7ff3-4bab-99c4-c31735668a3e)
-![todolist1](https://github.com/zi-young/todolist/assets/130470515/ed0df5ec-ee14-4750-b1bb-43876f3115f5)
-
+![todolist1](https://github.com/zi-young/todolist/assets/130470515/fcc671ea-c1e1-4f82-9ff2-8a8b4901de8e)
+![todolist2](https://github.com/zi-young/todolist/assets/130470515/9ff3b13e-b708-4151-af29-5b7ba0cb3aba)
+![todolist3](https://github.com/zi-young/todolist/assets/130470515/6460b845-02a3-4a42-8020-c12837e466b2)
